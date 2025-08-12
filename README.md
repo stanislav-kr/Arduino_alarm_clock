@@ -4,7 +4,6 @@
 ## 📂 Project Structure
 - [About](#about)
 - [Components](#components)
-- [Illustrations](#illustrations)
 - [Conclusion](#conclusion)
 - [License](#license)
 
@@ -14,13 +13,21 @@ This project focuses on creating a multi-functional digital alarm clock with Ard
 
 ---
 ## Components 
-First of all, the illustration of the electrical circuit is shown below.
+  You can see electrical circuit in image "Circuit.png"'.
+List of components:
+1) Arduino UNO 1x
+2) Breadboard 1x
+3) LCD display(with i2c) 1x
+4) Battery 9v(is too mach, 5-6 V is rather better) 1x
+5) Buzzer 1x
+6) DS3231(timer module) 1x
+7) Buttons 3x
+8) Resistors 3x
+9) Wires for connection 20-25x
 
----
-## Illustrations
-
----
+--- 
 ## Conclusion
+  A Pomodoro clock is an essential tool for those who want not only to stay focused, but also to maintain high levels of productivity throughout the day. Based on the well-known Pomodoro Technique, it encourages structured work and rest intervals, helping to reduce mental fatigue, improve time management, and build a sustainable workflow over time. Pomodoro clock is an essential tool for those who want not only to stay focused but also to sustain productivity over time using the Pomodoro method.
 
 ---
 ## License
